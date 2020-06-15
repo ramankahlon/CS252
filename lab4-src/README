@@ -1,0 +1,30 @@
+Part 2.3
+--------
+The output is a combination between the three threads printing the characters A, B, or C. The threads are created before the main thread, so their output is printed slightly before the output of the main thread.
+
+Part 2.5
+--------
+The output is C printed infinitely. This occurs because the main thread enters an infinite while loop, causing it to continuously print C. As a result, the main thread never gets to the lines that create the threads.
+
+Part 4.4
+--------
+-----------------------------------------------------------------------------------------------------------------
+|					| System (Kernel) Time 	| 	User Time 	|	Real Time	|
+-----------------------------------------------------------------------------------------------------------------
+|	pthread_mutex (count)		|	0m1.743s	|	0m2.422s	|	0m2.130s	|
+-----------------------------------------------------------------------------------------------------------------
+| spin lock (count_spin with thr_yield)	|	0m0.292s	|	0m0.674s	|	0m0.536s	|
+-----------------------------------------------------------------------------------------------------------------
+|spin_lock(count_spin without thr_yield)|	0m0.000s	|	0m0.648s	|	0m0.381s	|
+-----------------------------------------------------------------------------------------------------------------
+
+1. The pthread_yield allows the thread to give up processing power if it cannot run a particular part of code because of a spin_lock. This allows the thread that is locking the code to run with more power and end sooner, making the overall times much faster. Due to this, the CPU spends more time in user mode when thread_yield is not taking place. In this time, the thread is simply waiting.
+
+2. The CPU is spending a lot of time in kernel mode when it is locking and unlocking the mutex, as well as putting the thread into and pulling it out of a waiting state.
+
+Part 6
+------
+1. \xef\xbe\xad\xde
+2. ./buffer `printf "RRRRRRRRRRRRRRR\xef\xbe\xad\xde"`
+3. The 15 R's fill the buffer. The little endian bytes at the end are placed into the buffer one byte at a time (2 chars each) in reverse order with a leading '\x' before each byte. Therefore, they need to be placed in reverse, "\xef\xbe\xad\xde".
+
