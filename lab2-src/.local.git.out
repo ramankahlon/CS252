@@ -1,0 +1,2341 @@
+[master 4e801d3] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@xinu13.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master a9804c0] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 22ffd3b] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 2443226] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c2eb0be] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master a482928] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master 76a3a48] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dcb6679] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 44ee2ab] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master bdbc17d] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ff0c727] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 31445fd] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master b9d8aaa] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e24e38d] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 36ab306] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master cda1763] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+[master 4ce401f] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master 1f8db34] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 79cb087] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 02dcf18] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 8599a50] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 71a8a69] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 2aa87f0] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master b999e47] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5f408a0] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4a50185] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master de23a7e] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 637921d] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5358a41] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6769555] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1d6642f] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f0a233e] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 972a13f] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5424dbb] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ff89a88] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 22e74fc] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2341dff] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2c1a186] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 959200e] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 28be6f5] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8654d8f] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 619277a] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master b7b9dc3] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cc960e9] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 6ba880f] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2f4e143] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 20 insertions(+), 1 deletion(-)
+[master 0b85e2f] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 6b4a1b8] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0144bef] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0d55027] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dc3c0bb] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d07a886] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 3 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master a7818e5] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+[master 1837226] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+[master b2dde82] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3bd7586] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 85af6bc] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 73367ea] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 deletions(-)
+[master 2403a1e] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master c2b68e2] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3f84084] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 9a6fb86] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master f2df736] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+), 10 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master f58499c] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d61afbb] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@borg09.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 70e8e53] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@borg09.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 82a6353] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@borg09.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master a76f5e9] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 8d202a4] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+[master 4eaeb38] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f6ece71] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master fc09067] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 3913be1] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@xinu13.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aa4efd3] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@xinu13.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master c315763] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@xinu13.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+[master fac725c] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@xinu13.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
+[master f9a39ac] Lab 2 commit
+ Committer: Raman Kahlon <kahlonr@xinu13.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	FILE
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	reports_dir/
+	tmp-message
+
+nothing added to commit but untracked files present
