@@ -1,0 +1,12 @@
+Features Implemented
+--------------------
+Basic Server
+Adding Concurrency
+Browsing Directories
+
+Features Not Working
+--------------------
+CGI-Bin
+Loadable Modules
+Statistics/Log Pages
+
